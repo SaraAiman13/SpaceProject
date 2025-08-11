@@ -46,20 +46,20 @@ space-mission-data-analysis/
 ```bash
 git clone https://github.com/<your-username>/space-mission-data-analysis.git
 cd space-mission-data-analysis
-2. Install dependencies
-bash
-Copy
-Edit
+```
+
+### 2. Install dependencies
+```bash
 npm install
-3. Run the development server
-bash
-Copy
-Edit
+```
+### 3. Run the development server
+```bash
 npm run dev
+```
 Open the URL shown in the terminal (usually http://localhost:5173/).
 
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 React – UI framework
 
 TypeScript – Type safety
@@ -68,19 +68,17 @@ Tailwind CSS – Styling
 
 Vite – Fast bundler
 
-📊 Features
+### 📊 Features
 Interactive charts for mission success/failure analysis
 
 Data filtering by year, country, and mission type
 
 Responsive design for all devices
 
-📜 License
+### 📜 License
 This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
+### yaml
 
 ---
 
