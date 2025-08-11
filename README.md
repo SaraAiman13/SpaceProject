@@ -61,15 +61,17 @@ Open the URL shown in the terminal (usually http://localhost:5173/).
 
 ### 🛠️ Tech Stack
 
-React – UI framework
-TypeScript – Type safety
-Tailwind CSS – Styling
-Vite – Fast bundler
+**React** – UI framework
+**TypeScript** – Type safety
+**Tailwind CSS** – Styling
+**Vite**– Fast bundler
 
 ### 📊 Features
 
 Interactive charts for mission success/failure analysis
+
 Data filtering by year, country, and mission type
+
 Responsive design for all devices
 
 ### 📜 License
