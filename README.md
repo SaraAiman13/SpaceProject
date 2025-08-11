@@ -61,10 +61,10 @@ Open the URL shown in the terminal (usually http://localhost:5173/).
 
 ### 🛠️ Tech Stack
 
-**React** – UI framework
-**TypeScript** – Type safety
-**Tailwind CSS** – Styling
-**Vite**– Fast bundler
+- **React**: UI framework
+- **TypeScript**: Type safety
+- **Tailwind CSS**: Styling
+- **Vite**: Fast bundler
 
 ### 📊 Features
 
