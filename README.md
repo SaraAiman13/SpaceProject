@@ -60,31 +60,18 @@ Open the URL shown in the terminal (usually http://localhost:5173/).
 
 
 ### 🛠️ Tech Stack
+
 React – UI framework
-
 TypeScript – Type safety
-
 Tailwind CSS – Styling
-
 Vite – Fast bundler
 
 ### 📊 Features
+
 Interactive charts for mission success/failure analysis
-
 Data filtering by year, country, and mission type
-
 Responsive design for all devices
 
 ### 📜 License
 This project is licensed under the MIT License.
 
-### yaml
-
----
-
-After you paste this in `README.md` at the **root folder**:  
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
